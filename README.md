@@ -37,3 +37,4 @@ Ethical automation systems for medicine, science, or governance.
 Call to Action
 
 This is a conceptual framework, not a finished product. We’re seeking engineers, ethicists, and visionaries to explore this future with us. If you believe AI can be both powerful and moral, this is your invitation.
+Derived by Symmetry Earth Labs with key insights provided by Christopher R Hodge >>>7945<<<
